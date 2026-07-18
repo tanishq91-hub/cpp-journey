@@ -1,1 +1,1 @@
-"# cpp-journey" 
+# cpp-journey
